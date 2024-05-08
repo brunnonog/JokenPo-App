@@ -2,6 +2,9 @@
 
 a jokenpo game
 
+![jokenpo](https://github.com/brunnonog/JokenPo-App/assets/155471821/8b703253-4648-4d6b-b37c-e49e8c8a14cd)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
